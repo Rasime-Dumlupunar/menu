@@ -17,5 +17,5 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş çok sayfalı ve
 - JavaScript (ES6+)
 - JSON Server
 
-- 
-! [] (https://github.com/Rasime-Dumlupunar/menu/blob/main/men%C3%BC.gif)
+#
+![](https://github.com/Rasime-Dumlupunar/menu/blob/main/men%C3%BC.gif)
