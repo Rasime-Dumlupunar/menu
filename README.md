@@ -18,4 +18,5 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş çok sayfalı ve
 - JSON Server
 
 #
+
 ![](https://github.com/Rasime-Dumlupunar/menu/blob/main/men%C3%BC.gif)
