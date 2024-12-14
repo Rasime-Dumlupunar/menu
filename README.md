@@ -12,6 +12,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş çok sayfalı ve
 
 
 # Kullanılan Teknolojiler
+
 - HTML5
 - CSS3 (Flexbox ve Grid Layout)
 - JavaScript (ES6+)
